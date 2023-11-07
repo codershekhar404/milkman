@@ -38,7 +38,7 @@ const Data = [
   {
     id: 7,
     name: "Harvest",
-    price: 23,
+    price: 26,
     unit: "Pcs",
   },
   {

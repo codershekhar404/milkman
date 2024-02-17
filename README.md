@@ -14,9 +14,9 @@ Empower your milk retail business with the Milk Calculator App and revolutionize
 
 ## Author
 
-- [@The Dev](https://www.github.com/thedev404)
+- [@Codershekhar](https://www.github.com/codershekhar404)
 
 
 ## Url
 
-- [@Milkman](https://thedev404.github.io/milkman/)
+- [@Milkman](https://codershekhar404.github.io/milkman/)

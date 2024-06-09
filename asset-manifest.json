@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/milkman/static/css/main.c7720ff8.css",
-    "main.js": "/milkman/static/js/main.ea35bf86.js",
+    "main.js": "/milkman/static/js/main.527b95d1.js",
     "index.html": "/milkman/index.html",
     "main.c7720ff8.css.map": "/milkman/static/css/main.c7720ff8.css.map",
-    "main.ea35bf86.js.map": "/milkman/static/js/main.ea35bf86.js.map"
+    "main.527b95d1.js.map": "/milkman/static/js/main.527b95d1.js.map"
   },
   "entrypoints": [
     "static/css/main.c7720ff8.css",
-    "static/js/main.ea35bf86.js"
+    "static/js/main.527b95d1.js"
   ]
 }
